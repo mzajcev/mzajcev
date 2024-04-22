@@ -41,7 +41,7 @@ matthias = {
 
 ```
 
-<h4 align="center">My Eternal Triangle:</h4>
+<h4 align="center">The Eternal Triangle:</h4>
 <p align="center">
   <img src="assets/life_balance.gif" alt="Work Life Balance GIF">
 </p>
