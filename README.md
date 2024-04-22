@@ -1,9 +1,26 @@
 ### Hi there 👋
 
-<!--
-**mzajcev/mzajcev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a bit about me:
 
-Here are some ideas to get you started:
+```python
+me = {
+    "pronouns": "he/him",
+    "role": "Data Analyst",
+    "code_skills": ["HTML", "CSS", "Python", "SQL"],
+    "tools": ["Snowflake SQL", "Apache Superset", "PowerBI", "SPSS"],
+    "architecture": ["microservices", "event-driven", "design system pattern"],
+    "interests": {
+        "NLP": ["Sentiment Analysis", "Topic Modeling", "Langchain", "Large Language Models (LLMs)"],
+        "ML": [
+            "Predictive Modeling", 
+            "Data Mining", 
+            "Clustering Algorithms", 
+            "Dimensionality Reduction", 
+            "Embeddings"
+        ]
+    }
+}
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
