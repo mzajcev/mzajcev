@@ -33,13 +33,11 @@ matthias = {
     }
 }
 
-
-🔭 I’m currently working on clustering unsupervised data with reduced dimensionality to discover knowledge in a business setting.</li>
-👯 I’m looking to collaborate on everything in the direction of NLP / ML.</li>
-💬 Ask me about anything!</li>
-📫 How to reach me: Preferable on LinkedIn.</li>
-⚡ Fun fact: I like caffeine.</li>
-
+🔭 I’m currently working on clustering unsupervised data with reduced dimensionality to discover knowledge in a business setting.
+👯 I’m looking to collaborate on everything in the direction of NLP / ML.
+💬 Ask me about anything!
+📫 How to reach me: Preferable on LinkedIn.
+⚡ Fun fact: I like caffeine.
 
 ```
 
