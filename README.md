@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Here's a bit about me:
+My name is Matthias Zajcev and I am from Cologne, Germany. I'm a University of Applied Sciences Cologne graduate and currently focussing on my Masters degree.
+I love to extend and generate new knowledge in various fields to become an expert in Data Science with focus on Natural Language Processing and Machine Learning.
+Here's a bit more about me:
 
 ```python
 matthias = {
@@ -27,4 +29,3 @@ matthias = {
 - 💬 Ask me about anything!
 - 📫 How to reach me: Preferrable on LinkedIn.
 - ⚡ Fun fact: I like coffeine.
--->
