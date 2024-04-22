@@ -19,7 +19,7 @@
 matthias = {
     "current_role": "Data Analyst",
     "code_skills": ["HTML", "CSS", "C++", "Python", "SQL"],
-    "tools": ["Snowflake SQL", "Apache Superset", "PowerBI", "SPSS", "Pandas", "spaCy", "Langchain", "Transformers", "Scikit-learn" & many more],
+    "tools": ["Snowflake SQL", "Apache Superset", "PowerBI", "SPSS", "Pandas", "spaCy", "Langchain", "Transformers", "Scikit-learn" & "many more"],
     "architecture": ["microservices", "event-driven", "design system pattern"],
     "interests": {
         "NLP": ["Sentiment Analysis", "Topic Modeling", "LLMs"],
