@@ -10,7 +10,7 @@ class DataAnalyst:
 
     def __init__(self):
         self.current_role = "Data Analyst"
-        self.code_skills = ["HTML", "CSS", "C++", "Python", "SQL"]
+        self.code_skills = ["HTML", "CSS", "Python", "SQL"]
         self.tools = ["Snowflake SQL", "Apache Superset", "PowerBI", "SPSS", "Pandas", "spaCy", "Langchain", "Transformers", "Scikit-learn", "& many more"]
         self.architecture = ["event-driven", "design system pattern"]
         self.interests = {
