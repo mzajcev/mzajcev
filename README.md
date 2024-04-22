@@ -44,7 +44,7 @@ me.say_hi()
 👯 I’m looking to collaborate on anything in the direction of NLP / ML.
 💬 Ask me about anything!
 📫 How to reach me: Preferably on LinkedIn.
-⚡ Fun fact: I adore caffeine.
+⚡ Fun fact: I adore caffeine and cats.
 ```
 <br>
 
