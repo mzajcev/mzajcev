@@ -13,7 +13,7 @@ class DataAnalyst:
         self.current_role = "Data Analyst"
         self.code_skills = ["HTML", "CSS", "JavaScript", "PHP", "Python", "SQL"]
         self.tools = ["Snowflake SQL", "Apache Superset", "PowerBI", "SPSS", "Pandas", "spaCy", "Langchain", "Transformers", "Scikit-learn", "Wordpress", "& many more"]
-        self.architecture = ["event-driven", "microservices", "pipeline", "data lake"]
+        self.architecture = ["event-driven", "microservice", "pipeline", "data lake"]
         self.interests = {
             "NLP": [
                   "Sentiment Analysis",
