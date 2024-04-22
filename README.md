@@ -37,6 +37,7 @@ me.say_hi()
 </p>
 
 <br>
+<h4 align="center">Additional information:</h4>
 
 ```python
 🔭 I’m currently working on clustering unsupervised data with reduced dimensionality to discover knowledge in a business setting.
