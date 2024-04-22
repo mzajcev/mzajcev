@@ -3,7 +3,7 @@
 </p>
 
 <div>
-<h3 align="center">Hello and Welcome to my GitHub Profile 👋</h3>
+<h3 align="center">Hello and Welcome to my GitHub Profile <img align="center", src="assets/wave-hello.gif" alt="Waving Hand" style="width:40px;height:40px;"/></h3>
   
 ```python
 class DataAnalyst:
