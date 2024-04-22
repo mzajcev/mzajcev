@@ -22,7 +22,7 @@ matthias = {
     "tools": ["Snowflake SQL", "Apache Superset", "PowerBI", "SPSS", "Pandas", "spaCy", "Langchain", "Transformers", "Scikit-learn" & many more],
     "architecture": ["microservices", "event-driven", "design system pattern"],
     "interests": {
-        "NLP": ["Sentiment Analysis", "Topic Modeling", "Large Language Models (LLMs)"],
+        "NLP": ["Sentiment Analysis", "Topic Modeling", "LLMs"],
         "ML": [
             "Predictive Modeling", 
             "Data Mining", 
