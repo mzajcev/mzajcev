@@ -31,8 +31,8 @@ class DataAnalyst:
     def say_hi(self):
         print("My name is Matthias Zajcev and I am from Cologne, Germany. I'm a University of Applied Sciences Cologne graduate and currently focussing on my Masters degree. I love to extend and generate new knowledge in various fields to become an expert in Data Science with focus on Natural Language Processing and Machine Learning.")
 
-me = DataAnalyst()
-me.say_hi()
+matthias = DataAnalyst()
+matthias.say_hi()
 ```
 <p align="left">
   My name is Matthias Zajcev and I am from Cologne, Germany. 
