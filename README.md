@@ -14,7 +14,11 @@ class DataAnalyst:
         self.tools = ["Snowflake SQL", "Apache Superset", "PowerBI", "SPSS", "Pandas", "spaCy", "Langchain", "Transformers", "Scikit-learn", "& many more"]
         self.architecture = ["event-driven", "design system pattern"]
         self.interests = {
-            "NLP": ["Sentiment Analysis", "Topic Modeling", "LLMs"],
+            "NLP": [
+                  "Sentiment Analysis",
+                  "Topic Modeling",
+                  "LLMs"
+            ],
             "ML": [
                 "Predictive Modeling", 
                 "Data Mining", 
