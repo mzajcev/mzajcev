@@ -1,5 +1,6 @@
 <p align="center">
   <img src="assets/name.svg" alt="Me, myself and I" width="500">
+  <img align="right", src="assets/work.gif" alt="Me, myself and I at work" width="220">
 </p>
 
 <div>
