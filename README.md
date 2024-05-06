@@ -7,7 +7,7 @@
 <h3 align="center">Hello and Welcome to my GitHub Profile <img align="center", src="assets/wave-hello.gif" alt="Waving Hand" style="width:40px;height:40px;"/></h3>
   
 ```python
-class DataScienceGuy:
+class DataGuy:
 
     def __init__(self):
         self.current_role = "Data Analyst"
@@ -32,7 +32,7 @@ class DataScienceGuy:
     def say_hi(self):
         print("My name is Matthias Zajcev and I am from Cologne, Germany. I'm a University of Applied Sciences Cologne graduate and currently focussing on my Masters degree. I love to extend and generate new knowledge in various fields to become an expert in Data Science with focus on Natural Language Processing and Machine Learning.")
 
-matthias = DataScienceGuy()
+matthias = DataGuy()
 matthias.say_hi()
 ```
 <p align="left">
